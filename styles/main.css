@@ -1,0 +1,259 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+#nav {
+    padding: 12px 80px;
+    vertical-align: middle;
+    max-width: 1140px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#nextmove {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+a {
+    text-decoration: none;
+    color: inherit;
+    vertical-align: middle;
+}
+
+button {
+    text-decoration: none;
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+ul {
+    list-style: none;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 auto;
+    text-wrap: nowrap;
+}
+
+li {
+    vertical-align: middle;
+    text-wrap: nowrap;
+}
+
+.list {
+    display: inline-block;
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    font-family: Inter;
+    vertical-align: middle;
+}
+
+
+#contactbox {
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background: #00AC25;
+    text-align: right;
+    vertical-align: middle;
+}
+
+#contactus {
+    color: #fff;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+#bigbox {
+    max-width: 1316px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 24px;
+    margin-top: 233px;
+    text-align: center;
+}
+
+
+#teacher {
+
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+#become {
+    color: #ff5da3;
+    font-family: Inter;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    vertical-align: middle;
+}
+
+#about {
+    color: #ff5da3;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+
+}
+
+#smalltext {
+    color: #000;
+    text-align: center;
+    font-family: "IBM Plex Sans KR";
+    font-style: normal;
+    font-weight: 400;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 24px;
+}
+
+#enjoy {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: "Instrument Sans";
+    margin-bottom: 24px;
+    margin-top: 24px;
+
+}
+
+#worldwide {
+    color: #6941C6;
+    text-align: center;
+    font-family: "Hind Vadodara";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+#instructorbox {
+
+    margin-top: 24px;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background: #00AC25;
+    display: inline-block;
+
+}
+
+#instructor {
+    color: #fff;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+#footer {
+    max-width: 1920px;
+    width: 100%;
+    height: 128px;
+    margin-top: 578px;
+    background-color: #53389E;
+}
+
+#ui {
+    display: inline-block;
+}
+
+#logo_ {
+    max-width: 1216px;
+    width: 100%;
+    height: 32px;
+    margin: 0 auto;
+    padding-top: 48px;
+    vertical-align: middle;
+}
+
+
+
+.secondlist {
+    vertical-align: middle;
+    display: inline-block;
+    text-wrap: nowrap;
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+#image_logo {
+    vertical-align: middle;
+}
+
+#second_list {
+    max-width: 512px;
+    width: 100%;
+    height: 24px;
+    display: inline-block;
+    margin-left: 192px;
+    vertical-align: middle;
+}
+
+#pad_features {
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+#pad_help {
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+#copyright {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 192px;
+    color: #D6BBFB;
+    text-align: right;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#nav_list {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 349px;
+    width: 100%;
+    height: 22px;
+    margin: 0 auto;
+    text-align: center;
+    margin-left: 168px;
+    margin-right: 168px;
+}
+
+
+#pad_offer {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#help {
+    padding-left: 20px;
+}
